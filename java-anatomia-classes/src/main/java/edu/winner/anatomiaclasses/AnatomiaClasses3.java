@@ -1,5 +1,3 @@
-package org.example;
-
 public class AnatomiaClasses3 {
     public static void main(String[] args) {
         /*
